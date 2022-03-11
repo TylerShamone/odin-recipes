@@ -1,1 +1,2 @@
 # odin-recipes
+Odin recipes is a website that will allow me to showcase my introductory HTML skills.  This is my first major Odin Project website.  I am excited and look forward to refining and improving this website as my skills improve. 
